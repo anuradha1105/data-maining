@@ -1,0 +1,20 @@
+# Data & archives
+data/
+*.zip
+
+# Secrets
+kaggle.json
+/root/.kaggle/
+
+# Colab system folders
+sample_data/
+.config/
+
+# Python & notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS noise
+.DS_Store
+Thumbs.db
