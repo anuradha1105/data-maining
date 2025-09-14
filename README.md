@@ -11,7 +11,6 @@ assignment-1/
 ├─ notebooks/
 ├─ outputs/
 ├─ figures/
-├─ src/
 ├─ requirements.txt
 └─ .gitignore
 
