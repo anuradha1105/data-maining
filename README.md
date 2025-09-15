@@ -1,4 +1,5 @@
-Predicting House Prices with CRISP-DM: From Raw Data to Insights
+**# Predicting House Prices with CRISP-DM: From Raw Data to Insights**
+
 📌 Project Overview
 
 This project applies the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology to the House Prices dataset from Kaggle. The aim is to build models that accurately predict housing prices based on property features.
